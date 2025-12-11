@@ -65,4 +65,25 @@ footer {
     margin-top: auto
 }
 
+.video ul {
+    padding: 20px 40px;
+    background: white;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.video li {
+    margin-bottom: 30px;
+}
+
+.video a {
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.video-wrapper {
+    max-width: 560px;
+}
 
