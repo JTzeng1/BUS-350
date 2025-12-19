@@ -65,25 +65,24 @@ footer {
     margin-top: auto
 }
 
-.video ul {
-    padding: 20px 40px;
-    background: white;
-    margin: 20px;
-    border-radius: 8px;
+.card-body ul {
+    padding-left: 1rem; 
+    margin-left: 0;  
+    list-style-position: inside;
 }
 
-.video li {
-    margin-bottom: 30px;
+body {
+    background-color: #f8f9fa;
 }
 
-.video a {
-    font-weight: bold;
-    font-size: 18px;
-    display: inline-block;
-    margin-bottom: 10px;
+.card {
+    border-radius: 10px;
+}
+.section-title {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
-.video-wrapper {
-    max-width: 560px;
+.link-card a {
+    text-decoration: none;
 }
-
